@@ -1,0 +1,8 @@
+add_executable(addaword addaword.c)
+add_executable(append append.c)
+add_executable(count count.c)
+add_executable(parrot parrot.c)
+add_executable(randbin randbin.c)
+add_executable(reducto reducto.c)
+add_executable(reverse reverse.c)
+add_executable(setbuf setbuf.c)

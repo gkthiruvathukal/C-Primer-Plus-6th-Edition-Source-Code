@@ -1,0 +1,5 @@
+add_executable(fathm_ft fathm_ft.c)
+add_executable(first first.c)
+#add_executable(nogood nogood.c)
+#add_executable(stillbad stillbad.c)
+add_executable(two_func two_func.c)

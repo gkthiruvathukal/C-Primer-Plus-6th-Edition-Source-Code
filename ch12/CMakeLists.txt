@@ -1,0 +1,11 @@
+add_executable(dyn_arr dyn_arr.c)
+add_executable(forc99 forc99.c)
+add_executable(global global.c)
+add_executable(hiding hiding.c)
+add_executable(loc_stat loc_stat.c)
+add_executable(manydice manydice.c diceroll.c)
+add_executable(parts parta.c partb.c)
+#add_executable(rand0 rand0.c)
+
+add_executable(r_drive0 r_drive0.c s_and_r.c rand0.c)
+add_executable(r_drive1 r_drive1.c s_and_r.c rand0.c)

@@ -1,0 +1,8 @@
+add_executable(checking checking.c)
+add_executable(echo echo.c)
+add_executable(echo_eof echo_eof.c)
+add_executable(file_eof file_eof.c)
+add_executable(guess guess.c)
+add_executable(menuette menuette.c)
+add_executable(showchar1 showchar1.c)
+add_executable(showchar2 showchar2.c)

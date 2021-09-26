@@ -1,0 +1,6 @@
+add_executable(films1 films1.c list.c)
+add_executable(films2 films2.c list.c)
+add_executable(films3 films3.c list.c)
+add_executable(mall mall.c queue.c)
+add_executable(petclub petclub.c tree.c)
+add_executable(use_q use_q.c queue.c)
